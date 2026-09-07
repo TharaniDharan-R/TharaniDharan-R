@@ -113,7 +113,7 @@ cloud infrastructure and application deployment.
 
 ## 🌐 Portfolio
 
-### 🚀 [Visit My Portfolio]([YOUR-GITHUB-PAGES-LINK](https://tharanidharan-r.github.io/portfolio/))
+### 🚀 [Visit My Portfolio](https://tharanidharan-r.github.io/portfolio/)
 
 ---
 
@@ -121,7 +121,7 @@ cloud infrastructure and application deployment.
 
 📧 **Email:** tharanidharan2327@gmail.com
 
-💼 **LinkedIn:** [YOUR-LINKEDIN-LINK](https://www.linkedin.com/in/tharani-dharan-r-97b27b291/)
+💼 **LinkedIn:** [Linkedin](https://www.linkedin.com/in/tharani-dharan-r-97b27b291/)
 
 
 ---
